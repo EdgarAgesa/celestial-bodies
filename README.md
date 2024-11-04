@@ -5,4 +5,4 @@
 To initialize the database, use the following command:
 
 ```bash
-psql -U postgres -f universe.sql
+psql -U postgres < universe.sql
